@@ -1,0 +1,29 @@
+[
+    {
+        "nombre":"Ana",
+        "apellido":"Arias",
+        "edad":21,
+        "puesto":"Oficina"
+    },
+    {
+        "nombre":"Camila",
+        "apellido":"Zapata",
+        "edad":23,
+        "puesto":"Vendedor"
+    },
+    {
+        "nombre":"Jairo",
+        "apellido":"Berrio",
+        "edad":27,
+        "puesto":"Asesor"
+    },
+    {
+        "nombre":"Cristian",
+        "apellido":"Greif",
+        "edad":30,
+        "puesto":"Asesor"
+    }
+
+
+
+]
