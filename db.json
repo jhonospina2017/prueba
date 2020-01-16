@@ -1,0 +1,28 @@
+tipolog=[
+      {
+      "name": "Top clientes",
+      "value": 230
+      },
+      {
+      "name": "Leales",
+      "value": 100
+      },
+      {
+      "name": "Grandes compradores",
+      "value": 400
+      },
+      {
+      "name": "En riesgo",
+      "value": 378
+      }
+      ,
+      {
+      "name": "Perdidos",
+      "value": 120
+      }
+      ,
+      {
+      "name": "Perdidos no imp.",
+      "value": 210
+      }
+      ];
