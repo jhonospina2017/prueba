@@ -14,13 +14,11 @@ tipolog=[
       {
       "name": "En riesgo",
       "value": 378
-      }
-      ,
+      },
       {
       "name": "Perdidos",
       "value": 120
-      }
-      ,
+      },
       {
       "name": "Perdidos no imp.",
       "value": 210
