@@ -1,15 +1,26 @@
-  
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+    "name": "Top clientes",
+    "value": 230
+    },
+    {
+    "name": "Leales",
+    "value": 100
+    },
+    {
+    "name": "Grandes compradores",
+    "value": 400
+    },
+    {
+    "name": "En riesgo",
+    "value": 378
+    },
+    {
+    "name": "Perdidos",
+    "value": 120
+    },
+    {
+    "name": "Perdidos no imp.",
+    "value": 210
+    }
+    ]
